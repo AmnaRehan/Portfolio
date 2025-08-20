@@ -2,7 +2,16 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    id: 1,
+    id:2,
+    title:"LUXE",
+    description: "A modern, responsive e-commerce website for a luxury jewelery brand.",
+    image:"/projects/luxee.jpg",
+    tags: ["React", "TailwindCSS", "Typescript"],
+    demoUrl: "https://luxe-1kw4.vercel.app/",
+    githubUrl: "https://github.com/AmnaRehan/LUXE"
+  },
+  {
+    id: 3,
     title: "Athenix AI",
     description: "AI model designed to help users create personalized workout routines and diet plans.",
     image: "/projects/ath2.png",
@@ -11,7 +20,7 @@ const projects = [
     githubUrl: "https://github.com/AmnaRehan/Athenix-AI",
   },
   {
-  id: 2,
+  id: 4,
   title: "Gaming Product Store",
   description: "Full-stack store with modern UI, product listing, backend APIs, and Arcjet-secured requests.",
   image: "/projects/velt2.png",
