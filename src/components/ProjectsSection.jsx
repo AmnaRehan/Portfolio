@@ -28,7 +28,15 @@ const projects = [
   demoUrl: "#",
   githubUrl: "https://github.com/AmnaRehan/Veltrix", 
   },
-
+  {
+  id: 5,
+  title: "LandIT",
+  description: "AI-powered interview preparation platform focused on improving candidate confidence and usability.",
+  image: "/projects/velt2.png",
+  tags: ["TailwindCSS","Typescript","OpenAI"],
+  demoUrl: "https://land-it-az.vercel.app/",
+  githubUrl: "https://github.com/AmnaRehan/LandIT", 
+  },
   
 ];
 

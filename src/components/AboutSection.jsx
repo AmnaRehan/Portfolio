@@ -12,7 +12,7 @@ export const AboutSection = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold">
-              Computer Science Undergraduate & Aspiring Full Stack Developer
+              Computer Science Undergraduate | Full-Stack & UI-Focused Developer
             </h3>
 
             <p className="text-muted-foreground">
@@ -46,9 +46,9 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg"> Web Development</h4>
+                  <h4 className="font-semibold text-lg"> UI/UX & Web Development</h4>
                   <p className="text-muted-foreground">
-                    Building full stack web apps with responsive interfaces and robust backends using Node.js, Express.js, HTML, CSS, and SQL.
+                    Designing and building user-centered, responsive full-stack web applications with a focus on usability, accessibility, and clean interfaces using HTML, CSS, Figma Node.js, Express.js, and SQL.
                   </p>
                 </div>
               </div>
